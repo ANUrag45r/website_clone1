@@ -1,0 +1,215 @@
+/* body{
+    background-color: #212121
+} */
+.big-header{
+    background-color: #0077D4;
+  
+}
+.header{
+    display: flex;
+}
+.big-header .header #contents{
+    display: flex;
+    /* padding-top: 100px; */
+    /* align-self: baseline; */
+    font-size: 25px;
+    
+}
+.header .img1{
+    padding: 25px 25px 0px 25px;
+   
+}
+.header .img1 h2 {
+    font-family: inter,sans-serif;
+    font-size: 18px;
+    font-weight: 800px;
+    color: #fff;
+}
+.header .head-content {
+   
+    padding-top: 110px;
+    padding-left: 800px;
+    color: aliceblue;
+    display: flex;
+    
+} 
+.header .head-content #contents {
+    justify-content: space-around;
+    gap: 40px;
+    padding-bottom: 40px;
+    
+}
+.wee:after{
+    position: absolute;
+    background-color: black;
+    height: 3px;
+    width: 0;
+    
+}
+.wee:hover:after{
+    width: 100%;
+    transition: 0.3s;
+}
+.big-header .text_blw_img{
+    padding-left: 20px;
+    color: aliceblue;
+}
+
+.line1{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 100px;
+   
+}
+.line2{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.line1 .searchbox{
+    
+    
+    border-radius: 50%;
+}
+.l2text{
+    margin-left: 7px;
+    font-size: 1.1rem;
+    
+}
+.body2 .line1{
+    display: flex;
+    gap: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.hr1{
+    display: 80%;
+    align-self: center;
+}
+.line2-right{
+    display: inline-block;
+}
+.body2 .rline2box{
+    display: flex;
+    gap: 3px;
+   }
+.line2-right .rline2{
+    font-weight: bolder;
+}
+.body2 .rline2box div{
+     border: 3px ;
+     display: block;
+     background-color: #005aa1;
+     color: aliceblue;
+    padding: 6px 12px;
+}
+
+.body2-main{
+    padding-top: 50px;
+    display: flex;
+}
+.b2boxes{
+    padding-left: 40px;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.number{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.content{
+    font-size: 16px;
+    font-weight: bold;
+}
+.b2box{
+    padding: 20px;
+    margin: 20px;
+    width: 200px;
+}
+.body3main{
+    display: flex;
+}
+.b3right{
+    margin-left: 100px;
+    padding: 10px;
+    /* border: 2px solid; */
+    height: 415px;
+    overflow: scroll;
+}
+.b4img{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+.b4head{
+    padding-left: 30px;
+}
+.b4main{
+    display: flex;
+    overflow: scroll;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.b5img{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+.b5head{
+    padding-left: 30px;
+}
+.b5main{
+    display: flex;
+    overflow: scroll;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.b6main{
+    display: flex;
+    overflow: scroll;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.b6img1{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+.b6img2{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+.b6img3{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+.body7{
+    display: flex;
+}
+.b7left{
+    margin-left: 10px;
+}
+.b7right{
+   margin-left: 10px;
+}
+li{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.flinks2{
+    display: flex;
+}
+.flinks{
+    display: flex;
+}
+
+
